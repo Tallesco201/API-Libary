@@ -1,4 +1,4 @@
-# Livraria
+# Livraria.
 
 ## Padronização de código:
 
